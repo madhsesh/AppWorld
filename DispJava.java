@@ -1,4 +1,4 @@
-public class DispJava {
+opublic class DispJava {
 	public static void main(String Args[]) {
 		System.out.println("Hellow World");
 	}
